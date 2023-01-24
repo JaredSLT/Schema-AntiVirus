@@ -3,11 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tech.tresearchgroup.schemas</groupId>
-    <artifactId>Schema-AntiVirus</artifactId>
+    <artifactId>antivirus</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-
-    <name>Schema-AntiVirus</name>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
